@@ -2,7 +2,7 @@
 - Assessment: Human-AI Collaboration Portfolio
 - Student ID: 2800636m
 - Date: 22nd May 2026
-- Lecturer: Yunhyong Kim
+- Lecturer: Dr. Yunhyong Kim
 - Referencing Style: MHRA
 
 
